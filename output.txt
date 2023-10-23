@@ -1,0 +1,11 @@
+Validation Set Metrics:
+Accuracy: 0.76
+Precision: 0.74
+Recall: 0.76
+F1-Score: 0.74
+
+Test Set Metrics:
+Accuracy: 0.75
+Precision: 0.72
+Recall: 0.75
+F1-Score: 0.72
